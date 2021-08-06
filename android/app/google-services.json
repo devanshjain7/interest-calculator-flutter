@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216856448385",
+    "project_id": "lending-db",
+    "storage_bucket": "lending-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216856448385:android:2c3a57f11c5d21be262c80",
+        "android_client_info": {
+          "package_name": "com.example.interest_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216856448385-qan3qgbsub48p7ngalgfd6am9gkhs410.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mdXNpch7JSc1ZCnmwPdcOA5is3pYrok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216856448385-qan3qgbsub48p7ngalgfd6am9gkhs410.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
