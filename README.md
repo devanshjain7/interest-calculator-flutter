@@ -1,6 +1,6 @@
-# interest_calculator
+# Interest Calculator App 
 
-A new Flutter application.
+A simple custom interest calculator app for daily requirements of a retail money lending business owner. 
 
 ## Getting Started
 
